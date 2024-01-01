@@ -3,21 +3,21 @@
 	- The hostilities exchanged between hamas militants and IDF units on the 7th of October have resulted in a cascade of related incidents across the region
 	- These incidents have taken place <geo> varying.. <describe>..
 	- These have been accompanied by a number of attempts to restore regional stability.
-		- insert effort1
-		- <effort2>
+		- effort1
+		- effort2
 	- **At the time of writing:**
 - ## Notable developments
 	- X forces have significantly increased their regional presence and operations.
-		- <describe>
-		- <insert viz>
+		- describe>
+		- insert viz
 	- Attacks on <describe targets> demonstrate a great degree of X sophistication while utilising a range of unconventional and asymmetric capabilities.
-		- <explain why>
-		- <insert viz>
+		- explain why
+		- insert viz
 	- Descriptions of Yemeni forces by media outlets as "Houthi rebels" does not capture the complexity of the networks facilitating the attacks.
-		- <explain why>
+		- explain why
 	- Regional geo-economics will significantly complicate existing X in the form of operation Prosperity Guardian and its efforts to support it
-		- <explain why>
-		- <insert viz>
+		- explain why
+		- insert viz
 - ## Timeline of events
 	- ### **December**
 		- ![image.png](../assets/image_1704140369352_0.png)
