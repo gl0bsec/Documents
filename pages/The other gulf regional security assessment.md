@@ -20,7 +20,7 @@
 		- <insert viz>
 - ## Timeline of events
 	- ### **December**
-		- ![image.png](../assets/image_1703941241461_0.png)
+		- ![image.png](../assets/image_1704140369352_0.png)
 		- **12-03:**
 			- Southwest of Aden 4- Missile attack on UNITY EXPLORER bulk carrier and drone attack on NUMBER 9 container ship
 			- Bab al-Mandab strait 5- Rerouting of two unknown ships after receiving warnings
@@ -41,7 +41,7 @@
 		- **12-18:**
 			- west of Al-Mukha 10- Drone attack on SWAN ATLANTIC oil tanker and MSC CLARA container ship
 	- ### **November**
-		- https://media.discordapp.net/attachments/1189742275924865064/1190852640242937856/image.png?ex=65a34ef2&is=6590d9f2&hm=ef66814132f75bfd8a8f7471ba0850dc1af0b64232f575c839fe28eaf3d243ac&
+		- ![image.png](../assets/image_1704140351694_0.png)  279, :width 718}
 		- **11-19:** Seizure of GALAXY LEADER vehicle carrier
 		- **11-19**: Attack or rerouting of a ZIM container ship, west of Hudaydah 2
 		- **11-25**:  Missile attack on CENTRAL PARK oil tanker (US claim and Ansar Allah’s denial), near Hanish Island 3
