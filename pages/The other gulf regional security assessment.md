@@ -1,3 +1,6 @@
+- - - - 
+  title: 
+  - - -
 - Authors: Shiva Shah, Zachary Horsington, Mick F
 - ## Overview
 	- The hostilities exchanged between hamas militants and IDF units on the 7th of October have resulted in a cascade of related incidents across the region
