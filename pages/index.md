@@ -1,5 +1,4 @@
 - These are snapshots of projects I'm currently working on as they're completed
--
 - ## The Global Security Initiative
 - [The other gulf regional security assessment](The%20other%20gulf%20regional%20security%20assessment.md)
 - [The anatomy of global surveillance](The%20anatomy%20of%20global%20surveillance.md)
