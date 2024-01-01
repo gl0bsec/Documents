@@ -1,5 +1,5 @@
 - - -
-- title: The other gulf regional security assessment
+title: The other gulf regional security assessment
 - - -
 - Authors: Shiva Shah, Zachary Horsington, Mick F
 - ## Overview
