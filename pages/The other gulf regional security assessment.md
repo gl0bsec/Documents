@@ -3,7 +3,7 @@
 	- The hostilities exchanged between hamas militants and IDF units on the 7th of October have resulted in a cascade of related incidents across the region
 	- These incidents have taken place <geo> varying.. <describe>..
 	- These have been accompanied by a number of attempts to restore regional stability.
-		- <effort1>
+		- insert effort1
 		- <effort2>
 	- **At the time of writing:**
 - ## Notable developments
@@ -37,7 +37,7 @@
 		- **12-15:**
 			- north of Bab al-Mandab 9- Missile attack on MSC ALANYA and MSC PALATIUM III container ships
 		- **12-17:**
-			- https://cdn.discordapp.com/attachments/1189742275924865064/1189783726960431134/image.png?ex=659f6b71&is=658cf671&hm=4d72ecefc4447f4c6cba8d6fd992f4faacf204171583470896a8d579d87c271b&
+			- ![image.png](../assets/image_1704140421796_0.png)
 		- **12-18:**
 			- west of Al-Mukha 10- Drone attack on SWAN ATLANTIC oil tanker and MSC CLARA container ship
 	- ### **November**
