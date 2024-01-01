@@ -1,0 +1,54 @@
+- Authors: Shiva Shah, Zachary Horsington, Mick F
+- ## Overview
+	- The hostilities exchanged between hamas militants and IDF units on the 7th of October have resulted in a cascade of related incidents across the region
+	- These incidents have taken place <geo> varying.. <describe>..
+	- These have been accompanied by a number of attempts to restore regional stability.
+		- <effort1>
+		- <effort2>
+	- **At the time of writing:**
+- ## Notable developments
+	- X forces have significantly increased their regional presence and operations.
+		- <describe>
+		- <insert viz>
+	- Attacks on <describe targets> demonstrate a great degree of X sophistication while utilising a range of unconventional and asymmetric capabilities.
+		- <explain why>
+		- <insert viz>
+	- Descriptions of Yemeni forces by media outlets as "Houthi rebels" does not capture the complexity of the networks facilitating the attacks.
+		- <explain why>
+	- Regional geo-economics will significantly complicate existing X in the form of operation Prosperity Guardian and its efforts to support it
+		- <explain why>
+		- <insert viz>
+- ## Timeline of events
+	- ### **December**
+		- ![image.png](../assets/image_1703941241461_0.png)
+		- **12-03:**
+			- Southwest of Aden 4- Missile attack on UNITY EXPLORER bulk carrier and drone attack on NUMBER 9 container ship
+			- Bab al-Mandab strait 5- Rerouting of two unknown ships after receiving warnings
+		- **12-08**:
+			- Red Sea 6- Missile attack on Norwegian STRINDA oil tanker
+		- **12-10:**
+			- the Palestinian resistance movement Hamas issued a statement, expressing appreciation for the Yemeni armed forces’ decision to prevent the sailing of Israeli ships and any other ship heading for Israeli ports. Hamas emphasized that this courageous act is in support for the people of Gaza and in response to Israeli-American aggression, urging Islamic and Arab countries to use all their capabilities to break the blockade of the Gaza Strip, and to stop the war and the massacre of its residents.
+		- **12-12:**
+			- Red Sea 6- Missile attack on Norwegian STRINDA oil tanker
+		- **12-13:**
+			- north of Bab al-Mandab 7- Missile attack on two unknown commercial ships (claimed by the US and Britain)
+		- **12-14:**
+			- Bab al-Mandab Strait and west of Hudaydah 8- Drone attack on MAERSK GIBRALTAR container ship
+		- **12-15:**
+			- north of Bab al-Mandab 9- Missile attack on MSC ALANYA and MSC PALATIUM III container ships
+		- **12-17:**
+			- https://cdn.discordapp.com/attachments/1189742275924865064/1189783726960431134/image.png?ex=659f6b71&is=658cf671&hm=4d72ecefc4447f4c6cba8d6fd992f4faacf204171583470896a8d579d87c271b&
+		- **12-18:**
+			- west of Al-Mukha 10- Drone attack on SWAN ATLANTIC oil tanker and MSC CLARA container ship
+	- ### **November**
+		- https://media.discordapp.net/attachments/1189742275924865064/1190852640242937856/image.png?ex=65a34ef2&is=6590d9f2&hm=ef66814132f75bfd8a8f7471ba0850dc1af0b64232f575c839fe28eaf3d243ac&
+		- **11-19:** Seizure of GALAXY LEADER vehicle carrier
+		- **11-19**: Attack or rerouting of a ZIM container ship, west of Hudaydah 2
+		- **11-25**:  Missile attack on CENTRAL PARK oil tanker (US claim and Ansar Allah’s denial), near Hanish Island 3
+		- **11-25:** West of Hudaydah 2- Attack or rerouting of a ZIM container ship
+		- **11-26**: Missile attack on UNITY EXPLORER bulk carrier and drone attack on NUMBER 9 container ship Southwest of Aden 4
+		- **11-26:** Near Hanish Island 3- Missile attack on CENTRAL PARK oil tanker (US claim and Ansar Allah’s denial)
+	- ### **October**
+		- **October 7**:
+		-
+- ## Outlook
