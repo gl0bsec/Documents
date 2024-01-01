@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+- - -
+title: The other gulf regional security assessment
+- - -
+>>>>>>> 95e450709e6fe73f7614371cee18251cbe8a817b
 - Authors: Shiva Shah, Zachary Horsington, Mick F
 - ## Overview
 	- The hostilities exchanged between hamas militants and IDF units on the 7th of October have resulted in a cascade of related incidents across the region
