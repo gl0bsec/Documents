@@ -417,5 +417,5 @@
  :excluded-pages? true}
  :journal/page-title-format "dd-MM-yyyy"
  :editor/logical-outdenting? true
- :feature/enable-journals? false
- :default-home {:page "Directory"}}
+ :feature/enable-journals? true
+ :default-home {}}
