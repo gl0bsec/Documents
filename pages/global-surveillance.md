@@ -10,4 +10,3 @@
 	- Financial services
 	- Cybercrime
 	- Hybrid threats
--
