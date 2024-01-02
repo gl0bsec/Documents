@@ -1,2 +1,2 @@
 - [[The anatomy of global surveillance]]
-- [[The other gulf regional security assessment]]
+- [[yemen-israel-hamas]]
