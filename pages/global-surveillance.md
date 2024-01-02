@@ -4,6 +4,7 @@
 		- <visuals>
 	- These events have obviously been seen as a significant cause for concern. Most major (media and news) outlets
 		- What hasn’t been covered is the opportunities this has generated for information brokers and private intelligence companies
+-
 - ### Breach data and stolen credentials are becoming increasingly accessible to a range of threat actors
 	- Individuals
 	- Law enforcement
