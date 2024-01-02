@@ -1,9 +1,12 @@
-# Interesting title that explains what happend
+# Interesting title that explains what happened
 - ## Overview
-	-
+	- What happened
+	- **At time of writing:**
 - ## Notable developments
-	-
+	- Observations
 - ## Timeline of events
-	-
+	- Day-Month
+		- event
 - ## Outlook
+	-
 	-
