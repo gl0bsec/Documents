@@ -4,8 +4,23 @@ body {
     background-color: #e0d4ac; /* Replace #ADD8E6 with your desired color code */
     font-family: 'Times New Roman', serif;
     font-size: 16pt;
-
+    max-width: 700px;
+    padding-top: 15px;
+    padding: 12px;
+    padding-bottom: 0;
+    font-weight: normal;
 }
+@media only screen and (min-width: 481px) {
+    body {
+        background-color: #e0d4ac; /* Replace #ADD8E6 with your desired color code */
+        font-family: 'Times New Roman', serif;
+        font-size: 16pt;
+        max-width: 700px;
+        padding-top: 15px;
+        padding-right: 24px;
+        padding-left: 24px;
+    }
+  }
 
 h1 {
     color: #32522a; /* Pastel Pink */
