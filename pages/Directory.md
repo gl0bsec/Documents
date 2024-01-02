@@ -1,2 +1,4 @@
 - [[global-surveillance]]
 - [[yemen-israel-hamas]]
+- [[index]]
+- [[report-templates]]
