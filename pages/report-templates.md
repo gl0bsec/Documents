@@ -1,4 +1,6 @@
 - simple report
+  template:: simple report
+  template-including-parent:: false
 	- Interesting title goes here
 	- Overview
 		- Description of what happened
