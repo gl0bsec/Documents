@@ -1,15 +1,17 @@
 - simple report
   template:: simple report
   template-including-parent:: false
-	- Interesting title goes here
+	- # Interesting title goes here
 	-
-	- Overview
+	- ## Overview
 		- Description of what happened
 		- At time of writing:
 		-
-	- Notable developments:
+	- ## Notable developments:
 		- Notable general observations
 		-
-	- Timeline of events
+	- ## Timeline of events
 		- day-month + description
-	- Outlook
+		-
+	- ## Outlook
+		- possible futures
