@@ -1,2 +1,2 @@
-- [[The anatomy of global surveillance]]
+- [[global-surveillance]]
 - [[yemen-israel-hamas]]
