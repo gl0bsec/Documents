@@ -1,4 +1,4 @@
-- [[index]]
+- [Projects Directory](index)
 - # The other gulf regional security assessment
 - Authors: Shiva Shah, Zachary Horsington, Mick F
 - ## Overview
