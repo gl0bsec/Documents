@@ -1,11 +1,11 @@
 @import "{{ minima }}";
 
 body {
-    background-color: #ffe9a8; /* Replace #ADD8E6 with your desired color code */
-    font-family: 'Courier New', monospace;
+    background-color: #e0d4ac; /* Replace #ADD8E6 with your desired color code */
+    font-family: 'Georgia', monospace;
 
 }
 
 h1 {
-    color: #f3657a; /* Pastel Pink */
+    color: #32522a; /* Pastel Pink */
 }
