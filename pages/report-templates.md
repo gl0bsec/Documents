@@ -4,4 +4,7 @@
 		- Description of what happened
 		- At time of writing:
 	- Notable developments:
-		- Generatl
+		- Notable general observations
+	- Timeline of events
+		- day-month + description
+	- Outlook
