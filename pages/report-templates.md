@@ -1,0 +1,7 @@
+- simple report
+	- Interesting title goes here
+	- Overview
+		- Description of what happened
+		- At time of writing:
+	- Notable developments:
+		- Generatl
