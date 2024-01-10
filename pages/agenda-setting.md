@@ -1,0 +1,14 @@
+- 1995
+	- Data protection directive passed
+	- DPAs institutionalize mechanisms for data privacy
+- 2001-06
+	- External influences: rise of the internet + 9/11
+	- Enabled them to limit the adoption of the EU-US  PNR in 2001
+	- Institutionalization also limits DPAs power. Preventing them to influence 2001 safe harbor agreement and the 2006 data retention directive
+- 2006-2015
+	- External factors: Snowden Leaks, rapid growth of online services and platforms + user data
+	- **GDPR: enables DPAs to impose fines, no local transposition, need for explicit user consent** (cookies+activity)
+	- Corporate lobbying campaign begins:
+	-
+	-
+-
