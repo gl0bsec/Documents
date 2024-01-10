@@ -1,9 +1,11 @@
 # Timeline of Privacy Advocacy and European Data Protection Legislation
 - 1995
 	- Data protection directive passed
-	- DPAs institutionalize mechanisms for data privacy
+		-
+	- DPAs institutionalize mechanisms for data privacy and their place within this process
 	- Formation of Non-Governmental (transnational) privacy advocacy groups
 		- Privacy International and the EFF
+		- Resulting from general concerns regarding the globalization of surveillance
 - 2001-06
 	- External influences: rise of the internet + 9/11
 	- EDRi established
@@ -13,10 +15,13 @@
 - 2006-2015
 	- Saw to the rise of non-governmental privacy advocacy groups
 	- External factors: Snowden Leaks, rapid growth of online services and platforms + user data
+	- **2010-2011: digital agenda for Europe outlines the need for updated and harmonized data protection legislation for online platforms and services: e.g. online shopping, social media platforms etc.**
 	- **GDPR: enables DPAs to impose fines, no local transposition, need for explicit user consent** (cookies+activity)
 		- Explanations (internal): regulators' desire to harmonize privacy regulations
 		- Explanations (external): Snowden Leaks, rapid growth of online services and platforms + user data, extra-territoriality of data canters
+	- Lobbying efforts:
 		- Groups like privacy international were intimately involved in the drafting process
+		-
 	- Corporate lobbying campaigns DP regulation begin to escalate
 - 2015-Present
 	- External factors: expansion of the anti-privacy lobby
