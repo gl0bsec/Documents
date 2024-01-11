@@ -3,3 +3,5 @@
 - ## The Global Security Initiative
 	- [The other gulf regional security assessment](yemen-israel-hamas)
 	- [The anatomy of global surveillance](global-surveillance)
+	- [Table of Privacy Advocacy Organizations](the-privacy-advocates)
+-
