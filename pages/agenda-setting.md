@@ -6,10 +6,12 @@
 	- Formation of Non-Governmental (transnational) privacy advocacy groups
 		- Privacy International and the EFF
 		- Resulting from general concerns regarding the globalization of surveillance
+	- European Council Lisbon summit
 - **2001-06**
 	- External influences: rise of the internet + 9/11
 	- EDRi established
-	- passing of 2006 e-privacy bill
+	- passing of 2002 e-privacy bill
+		- Part of a larger package to reform telecoms and the IT industry following the conclusions of the Lisbon summit
 	- Enabled them to limit the adoption of the EU-US  PNR in 2001
 	- Institutionalization also limits DPAs power. Preventing them to influence 2001 safe harbor agreement and the 2006 data retention directive
 - **2006-2015**
@@ -22,10 +24,15 @@
 	- Lobbying efforts:
 		- Groups like privacy international were intimately involved in the drafting process
 	- Corporate lobbying campaigns DP regulation begin to escalate
-- 2015-Present
+- **2015-Present**
 	- External factors: expansion of the anti-privacy lobby
 	- 2019: Digital Services and Markets acts proposed
+		- Public at large first made aware of the DSA in 2019 through a leaked document
+			- Stated reasons: curbing of micro-targeted disinformation and online political campaigns + harmonization of content moderation (online hate speech) rules
 		- Explicit mention of the term digital rights
+		- More explicit reliance on public consultations in the drafting of the proposal by the EC
+		- Advocacy groups move to expose lobbying efforts through investigations and press releases in addition to regular 'awareness raising' efforts
+		- Initial proposal finally presented on
 -
 - ## Notes on lobbying strategies:
 	- ### Pro data protection (civil society)
@@ -33,40 +40,33 @@
 		- Tactics:
 			- "Lobbying out": Major public information campaigns, media coverage
 			- "Lobbying in": Participation in public consultations, submitting amendments
+		- 2006 data retention directive: Activities gained significant attention by media outlets and
 	- ### Pro big tech (corporate lobby)
 		- Major players: Digital Europe, Facebook team, Private consultants, Policy Entrepreneurs, major law firms
 		- Tactics:
 			- "Lobbying in": Direct engagement with MEPs and EC members (copy pasting recommendations scandal), submitting amendments
 			- "Lobbying out": large public forums and panels
--
 - ## GDPR in focus
 	- ### Early Discussions and Proposals (Before 2012)
-	  During this stage, the need to update the EU's data protection framework to address technological advancements and digital data challenges was widely recognized. The key players in these discussions included:
-	  
-	  1. **European Data Protection Authorities (DPAs)**: National DPAs provided expertise on the practicalities and challenges of data protection, sharing insights from their enforcement experiences under the previous Data Protection Directive.
-	  
-	  2. **European Commission (EC)**: As the initiator of EU legislation, the EC conducted preliminary assessments and gathered feedback on the need for reform.
-	  
-	  3. **European Parliament Members (MEPs)**: Particularly those in relevant committees, such as the Committee on Civil Liberties, Justice and Home Affairs (LIBE), who provided political and legislative perspectives.
-	  
-	  4. **Council of the European Union**: Representing member states, the Council was involved in early discussions about potential reforms.
-	  
-	  5. **Academic and Legal Experts**: Universities and legal scholars specializing in data protection and privacy law contributed to the academic discourse on the need for updated legislation.
-	  
-	  6. **Privacy Advocacy Groups and NGOs**: Organizations like European Digital Rights (EDRi) and Privacy International highlighted the implications of technological advances on privacy and data protection.
-	  
-	  7. **Industry and Business Representatives**: Particularly those from the tech sector, providing insights on the implications of data protection laws on business operations and innovation.
+	  During this stage, t**he need to update the EU's data protection framework to address technological advancements and digital data challenges was widely recognized**. The key players in these discussions included:
+		- 1. **European Data Protection Authorities (DPAs)**: National DPAs provided expertise on the practicalities and challenges of data protection, **sharing insights from their enforcement experiences under the previous Data Protection Directive**.
+		- 2. **European Commission (EC)**: As the initiator of EU legislation, the EC conducted preliminary assessments and gathered feedback on the need for reform.
+		- 3. **European Parliament Members (MEPs)**: Particularly those in relevant committees, such as the Committee on Civil Liberties, Justice and Home Affairs (LIBE), who provided political and legislative perspectives.
+		- 4. **Council of the European Union**: Representing member states, the Council was involved in early discussions about potential reforms.
+		- 5. **Academic and Legal Experts**: Universities and legal scholars specializing in data protection and privacy law contributed to the academic discourse on the need for updated legislation.
+		- 6. **Privacy Advocacy Groups and NGOs**: Organizations like European Digital Rights (EDRi) and Privacy International highlighted the implications of technological advances on privacy and data protection.
+		- 7. **Industry and Business Representatives**: Particularly those from the tech sector, providing insights on the implications of data protection laws on business operations and innovation.
+	-
 	- ### Proposal by the European Commission (January 2012)
 	  When the European Commission formally proposed the GDPR in January 2012, the consultation process expanded to include a wider range of stakeholders:
-	  
-	  1. **Public Consultations**: The EC held open consultations, allowing citizens, organizations, and businesses to submit their views on data protection reform.
-	  
-	  2. **Industry Consultation Bodies**: These included tech companies, SMEs, and large corporations, which provided feedback on the proposed regulation's impact on business practices.
-	  
-	  3. **Civil Society Organizations**: Groups like the Civil Liberties Union for Europe and Access Now played a role in advocating for strong data protection and privacy standards in the GDPR.
-	  
-	  4. **International Partners and Bodies**: Given the global nature of data flows, international organizations and non-EU countries also had an interest in the GDPR's development.
-	  
-	  5. **European Economic and Social Committee (EESC) and the Committee of the Regions (CoR)**: These bodies, representing various economic and regional interests within the EU, also provided input.
-	  
-	  Throughout these stages, the process was characterized by a high degree of consultation and negotiation, reflecting the diverse and sometimes conflicting interests of the various stakeholders. The iterative process involved proposals, feedback, revisions, and compromises to balance the different perspectives and needs related to data protection in the digital age.
+		- 1. **Public Consultations**: The EC held open consultations, allowing citizens, organizations, and businesses to submit their views on data protection reform.
+		- 2. **Industry Consultation Bodies**: These included tech companies, SMEs, and large corporations, which provided feedback on the proposed regulation's impact on business practices.
+		- 3. **Civil Society Organizations**: Groups like the Civil Liberties Union for Europe and Access Now played a role in advocating for strong data protection and privacy standards in the GDPR.
+		- 4. **International Partners and Bodies**: Given the global nature of data flows, international organizations and non-EU countries also had an interest in the GDPR's development.
+		- 5. **European Economic and Social Committee (EESC) and the Committee of the Regions (CoR)**: These bodies, representing various economic and regional interests within the EU, also provided input.
+	- Throughout these stages, the process was characterized by a high degree of consultation and negotiation, reflecting the diverse and sometimes conflicting interests of the various stakeholders. The iterative process involved proposals, feedback, revisions, and compromises to balance the different perspectives and needs related to data protection in the digital age.
+-
+- ## Notes on EU agenda setting
+	- European Commission makes proposals for legislation that the EP discusses. So the answer to the research question is: Which shifts the question to why did the Commission do that?
+	- Take into account who the relevant institutions are and what are the organizations and actors that influence them (and how).
+	- The EP does not adopt on its own legislation in the EU, only in codecision with the Council of Ministers.
