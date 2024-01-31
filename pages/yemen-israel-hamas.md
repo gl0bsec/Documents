@@ -3,10 +3,36 @@
 	- ## Part 1: Overview
 		- ### Regional effects
 			- ![image.png](../assets/image_1706624081519_0.png){:height 356, :width 670}
+			- Indirect fires across Israel's Northern border with Lebanon are noticeably more symmetrical between the IDF and Hezbollah as compared to Hamas in Gaza.
+			- Hamas' frequency in initiating indirect fires outside Gaza has noticeably decreased.
+			- Despite significant capability asymmetries and operational tempo disparities between the IDF and Palestinian resistance, Palestinian opposition remains defiant and a tactical threat to Israeli ground forces.
+			- Hamas activity continues to be concentrated within the Gaza strip, although a few armed clashes and indirect fire incidents have been observed outside the immediate area of IDF operations in Gaza.
+			- The Houthis continue to represent a consistent and clear strategic threat actor.
+			- Houthi maritime interdiction continues to represent targeted, low cost, low risk, highly impactful action.
+			- Regional conflict and Coalition airstrikes continue to emboldened Houthi controlled Yemen's morale and resolve against Western intervention in the region and Israeli action in Gaza and acts to further consolidate Yemenis support for Iran
+			- Regional petrochemical and energy infrastructure are unlikely to be targeted by the Houthis in the near future, as Iran and the Houthis are likely conscious that any attack may act to bolster American energy industries, which would be considered counterproductive. However, if Saudi Arabia/UAE were to aggrieve Iran/the Houthis to a significant degree, an adjustment in Houthi/Iranian proxy targeting may likely be observed to ensure forceful and functional attrition.
 		- ### Implications
-			-
+			- **Political**
+				- ![image.webp](../assets/image_1706653172465_0.webp)
+			- **Cyber/Informational**
+				- ![image.png](../assets/image_1706632870160_0.png)
+				-
+			- **Economic**
+				- The spillover of the conflict has had significant effects on both international trade and financial markets. Such effects include:
+					- <list effects>
+			- **Social**
+				-
 		- ### Conflict intensity
 			- ![image.png](../assets/image_1706625511048_0.png){:height 356, :width 670}
+			- When assessing the timeline of hostilities in the region it is evident that regional instability can be seen to escalate during the following key periods:
+				- <list key periods>
+				-
+			- Additionally, the following trends can be observed in regards to the type and nature of the incidents:
+				- <general TTPs incidents>
+				-
+			- GSI has also identified a number of emerging trends:
+				- Armed Palestinian resistance groups and IDF continue to engage in underhanded tactics which act to functionally undermine international law and order surrounding legitimate and proportional targeting, human rights, combatant and humanitarian labels, and associated legal protections/procedures.
+		-
 		- ### Risk Modifiers
 			- Intensification/militarisation of Iranian diplomatic tone
 			- Declarations of kinetic action by Coalition diplomats
@@ -23,8 +49,7 @@
 			- Significant disruption of public services/utilities/defence by cyber actors (i.e., cyber/kinetic nexus)
 		- ### Outlook
 			-
--
--
+- **Things we're looking at**
 - **International Logistics**: Suez Canal/Red Sea/Gulf of Aden (edited) Vessels, industries, vessel flags and registration, general traffic
 - **Kinetic maritime operators**: United States Navy, United States Marine Corps, Royal Navy, French Navy, Combined Task Force 153, Bahrain, Canada, Denmark, Greece, Netherlands, Norway, Seychelles, IRGC, Houthi, IDF, Ansar Allah, Indian Navy (edited)
   
