@@ -43,7 +43,7 @@
 		- **12-18:**
 			- west of Al-Mukha 10- Drone attack on SWAN ATLANTIC oil tanker and MSC CLARA container ship
 	- ### **November**
-		- ![image.png](../assets/image_1704140351694_0.png)  279, :width 718}
+		- ![image.png](../assets/image_1704140351694_0.png){:height 299, :width 770}  279, :width 718}
 		- **11-19:** Seizure of GALAXY LEADER vehicle carrier
 		- **11-19**: Attack or rerouting of a ZIM container ship, west of Hudaydah 2
 		- **11-25**:  Missile attack on CENTRAL PARK oil tanker (US claim and Ansar Allah’s denial), near Hanish Island 3
