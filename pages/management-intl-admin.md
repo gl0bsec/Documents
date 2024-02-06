@@ -1,0 +1,26 @@
+# Management in International Administrations
+	- Institutional focus: agencies and secretariats- administrative/executive wing of institutions
+	- "Agencies": specialized bodies responsible for implementing policy or programs (OECD, WHO, FRONTEX)
+	- Institutional power vs norms and agenda setting
+		- OECD PISA study, information strategy to set education agenda
+	- International Organisations (IOs)
+		- Autonomous bodies with their own interests, goals and preferences
+		- Internal structure determines behavior
+	- International bureaucracies are converging to the structures of national ones, public administration literature becomes relevant + IR literature
+	- International vs National Bureaucracies:
+		- Control + Accountability
+			- Direct vs Indirect implementation
+		- Limited oversight
+			- Decision-making primarily done by 'experts' vs Democratic processes
+		- Sources of Personnel
+			- Member state appointees vs Organised civil service
+	- Delegation and control:
+		- Delegation: expedite processes where there's a national capacity deficit
+		- Control: establish or achieve a political agenda
+	- Institutional drift: bureaucrats are socialized into their own SOPs and values
+		- Euro steal and coal community -> modern European Union
+	- Legitimacy is mediated by acceptance by:
+		- Citizens
+		- Member States
+		- Interest groups
+	- Normative (theoretical) vs Sociological/Descriptive legitimacy (opinion)

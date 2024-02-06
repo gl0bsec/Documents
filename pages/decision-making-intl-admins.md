@@ -1,0 +1,26 @@
+# Decision Making in International Administrations
+	- ## Key concepts and facts:
+		- **Levels of government**
+		- **"Governance"**
+			- Refers to: the interactions of actors in the context of a system of government
+				- Public-Private networks, negotiation, interest group interactions
+			- Refers to: the management of actors in the context of a system of government
+				- Regulation, control, performance/"competence" of state or non-actors
+		- **Marks and Hooghe (2003): presentation of ML gov as more efficient than central state monopoly**
+			- Type I: limited/ non-overlapping jurisdiction, functionalist logic (reducing transaction costs of inter-state cooperation to produce public goods)
+			- Type II: "complex" fluid systems, non-hierarchical and self organizing, "a wide range of public and private actors *copmete*"
+		- **"Ladders" of governance (Hooghe & Marks, 2023)**
+			- Variations in the N levels of governance for various state actors
+		- **MLG 'landscapes':**
+			- Levels of gov related to a group of state and non-state actors
+		- **General purpose (EU) vs Task-specific (WHO)**
+			- Different dynamics and problems
+		- **Nationalism and MLG (Hooghe & Marks, 2023):**
+			- Acts as a key threat to international institutions
+			- Variants: regionalism vs "nationalism"
+			- no-alternative: MLG is inevitable
+		- **Look into:**
+			- EU G4-Cities group
+			- Hague "security region"
+			- "In between spaces": peer-to-peer institutions,unclear responsibilities and jurisdictions (Eur Council)
+		-
