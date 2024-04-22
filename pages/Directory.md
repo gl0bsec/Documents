@@ -1,3 +1,6 @@
+- [[drafter]]
+- [[resarch-design]]
+- [[election-news-monitor]]
 - [[global-surveillance]]
 - [[yemen-israel-hamas]]
 - [[report-templates]]
