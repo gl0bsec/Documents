@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "0ef4e7d095078485",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa340a786daff145",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ce7106629ca4270",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Directory.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2366273d5ea5e89c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e086c3b22535da1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab1565028fe1955d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1071aa0907863528",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf49ada1f400797f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "713a6ddd2bf1f273",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b5bc91781dc49cba",
+    "type": "split",
+    "children": [
+      {
+        "id": "55c3d1cb3cd0c9c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21046989c9fc8fe3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b229b87a94905de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5fe8cd5326c7473",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22d35879c5aba05b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2366273d5ea5e89c",
+  "lastOpenFiles": [
+    "election-harms.md",
+    "Pasted image 20240507192507.png",
+    "Pasted image 20240507192440.png",
+    "pages/Directory.md",
+    "pages/index.md",
+    "pages/agenda-setting.md",
+    "pages/Untitled.md",
+    "pages/contents.md",
+    "pages/global-surveillance.md",
+    "pages/table.md",
+    "pages/the-privacy-advocates.md",
+    "pages/old-gulf.md",
+    "pages/ods-codes.md",
+    "pages/resarch-design.md",
+    "pages/hls__Research_Design_in_Political_Science_Dimiter_Toshkov_2016_1713777495193_0.md",
+    "pages/management-intl-admin.md",
+    "pages/decision-making-intl-admins.md",
+    "pages/election-news-monitor.md",
+    "pages/report-templates.md",
+    "logseq/bak/pages/(ideas)%20Regulation%20and%20(Global)%20Governance/2023-12-19T19_49_42.074Z.ios.md",
+    "pages/yemen-israel-hamas.md",
+    "assets/image_1713778077525_0.png",
+    "assets/image_1713778072204_0.png",
+    "assets/image_1706632870160_0.png",
+    "assets/image_1706625511048_0.png",
+    "assets/image_1706624365217_0.png",
+    "assets/image_1706624278280_0.png",
+    "assets/image_1706624081519_0.png",
+    "assets/image_1704140421796_0.png"
+  ]
+}
