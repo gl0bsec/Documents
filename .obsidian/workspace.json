@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "election-harms.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data-tools.md",
+                "file": "election-harms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data-tools.md",
+                "file": "election-harms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data-tools.md"
+                "file": "election-harms.md"
               }
             }
           }
@@ -173,11 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1071aa0907863528",
+  "active": "37f9350617fc4a5f",
   "lastOpenFiles": [
-    "pages/Directory.md",
-    "data-tools.md",
+    "Pasted image 20240510134318.png",
+    "Pasted image 20240510134150.png",
     "pages/index.md",
+    "data-tools.md",
+    "pages/Directory.md",
     "logseq/bak/pages/yemen-israel-hamas/2024-02-01T15_32_11.464Z.Desktop.md",
     "election-harms.md",
     "Pasted image 20240507192507.png",
@@ -204,7 +206,6 @@
     "assets/image_1706625511048_0.png",
     "assets/image_1706624365217_0.png",
     "assets/image_1706624278280_0.png",
-    "assets/image_1706624081519_0.png",
-    "assets/image_1704140421796_0.png"
+    "assets/image_1706624081519_0.png"
   ]
 }
