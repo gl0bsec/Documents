@@ -8,45 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ce7106629ca4270",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Directory.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "37f9350617fc4a5f",
+            "id": "9cac9c91645c3e9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "election-harms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "587e579d0b1e6050",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data-tools.md",
+                "file": "pages/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "election-harms.md",
+                "file": "pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "election-harms.md",
+                "file": "pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "election-harms.md"
+                "file": "pages/index.md"
               }
             }
           }
@@ -173,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37f9350617fc4a5f",
+  "active": "9cac9c91645c3e9e",
   "lastOpenFiles": [
-    "Pasted image 20240510134318.png",
-    "Pasted image 20240510134150.png",
-    "pages/index.md",
-    "data-tools.md",
     "pages/Directory.md",
+    "pages/index.md",
+    "assets/Pasted image 20240507192440.png",
+    "pages/data-tools.md",
+    "pages/election-harms.md",
+    "assets/Pasted image 20240510134318.png",
+    "assets/Pasted image 20240510134150.png",
     "logseq/bak/pages/yemen-israel-hamas/2024-02-01T15_32_11.464Z.Desktop.md",
-    "election-harms.md",
-    "Pasted image 20240507192507.png",
-    "Pasted image 20240507192440.png",
+    "assets/Pasted image 20240507192507.png",
     "pages/agenda-setting.md",
     "pages/Untitled.md",
     "pages/contents.md",
@@ -205,7 +178,6 @@
     "assets/image_1706632870160_0.png",
     "assets/image_1706625511048_0.png",
     "assets/image_1706624365217_0.png",
-    "assets/image_1706624278280_0.png",
-    "assets/image_1706624081519_0.png"
+    "assets/image_1706624278280_0.png"
   ]
 }
